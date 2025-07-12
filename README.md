@@ -42,7 +42,7 @@ The prediction model expects the following input features:
 
 ```bash
 git clone https://github.com/your-username/fastapi-project.git
-cd car-price-prediction-api
+cd fastapi-project
 ```
 
 ### 2. Set Environment Variables
