@@ -4,7 +4,7 @@ This project is a **Machine Learning-powered API** built using **FastAPI** to pr
 
 ---
 
-## 📦 Features
+## 📦 Project Features
 
 - 🔐 **Authentication**: JWT-based token auth and API key validation
 - 🧠 **ML Model Prediction**: Trained model predicts used car prices
@@ -15,7 +15,7 @@ This project is a **Machine Learning-powered API** built using **FastAPI** to pr
 
 ---
 
-## 🧠 Model Input Features
+## 🧠 Model Input Variables
 
 The prediction model expects the following input features:
 
