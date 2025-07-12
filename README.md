@@ -41,7 +41,7 @@ The prediction model expects the following input features:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction-api.git
+git clone https://github.com/your-username/fastapi-project.git
 cd car-price-prediction-api
 ```
 
