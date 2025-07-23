@@ -6,7 +6,7 @@ This project is a **Machine Learning-powered API** built using **FastAPI** to pr
 
 ## 📦 Project Features
 
-- 🔐 **Authentication**: JWT-based token auth and API key validation
+- 🔐 **Authentication**: JWT-based token auth and API key validations
 - 🧠 **ML Model Prediction**: Trained model predicts used car prices
 - ⚡ **Redis Caching**: Avoid redundant model computation
 - 📈 **Monitoring Ready**: Prometheus metrics + Grafana dashboards
